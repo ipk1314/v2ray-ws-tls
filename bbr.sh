@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/usr/bin/env bashhttps://github.com/ipk1314/v2ray-ws-tls/blob/master/bbr.txt
 PATH=/bin:/sbin:/usr/bin:/usr/sbin:/usr/local/bin:/usr/local/sbin:~/bin
 export PATH
 
